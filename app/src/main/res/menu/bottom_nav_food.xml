@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_breakfast"
+        android:icon="@drawable/breakfast_img"
+        android:title="@string/breakfast" />
+
+    <item
+        android:id="@+id/navigation_lunch"
+        android:icon="@drawable/lunch_re"
+        android:title="@string/lunch" />
+
+    <item
+        android:id="@+id/navigation_dinner"
+        android:icon="@drawable/dinner_mg"
+        android:title="@string/dinner" />
+
+    <item
+        android:id="@+id/navigation_snacks"
+        android:icon="@drawable/snack_mg"
+        android:title="@string/snacks" />
+
+</menu>

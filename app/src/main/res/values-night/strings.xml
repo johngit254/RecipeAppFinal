@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dinner">Recipe App Final </string>
+    <string name="lunch">Lunch</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="recipies_for_breakfast_lunch_and_dinner">Recipes for breakfast, lunch and Dinner</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="breakfast_recipes">BreakFast Recipes</string>
+    <string name="dinner_recipes">Dinner Recipes</string>
+    <string name="lunch_recipes">Lunch Recipes</string>
+    <string name="snacks_rec">Snacks Recipes</string>
+    <string name="snacks">Snacks</string>
+</resources>
